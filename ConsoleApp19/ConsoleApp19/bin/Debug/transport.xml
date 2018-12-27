@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<watertransport>
+  <boat name="boat">
+    <age>20</age>
+    <cost>150</cost>
+  </boat>
+  <boat name="ship">
+    <age>5</age>
+    <cost>50000</cost>
+  </boat>
+</watertransport>

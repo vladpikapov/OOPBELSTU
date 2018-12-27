@@ -1,0 +1,1 @@
+Имя класса:ConsoleApp16.Product. Базовый тип:System.Object. Ненаследуемый ли:False. Является ли классом:True

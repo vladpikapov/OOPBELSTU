@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfEquipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Equipment>
+    <Age>2</Age>
+    <Average>1</Average>
+    <Cost>5000</Cost>
+    <Name>Сканер</Name>
+  </Equipment>
+  <Equipment>
+    <Age>3</Age>
+    <Average>2</Average>
+    <Cost>6000</Cost>
+    <Name>Принтер</Name>
+  </Equipment>
+</ArrayOfEquipment>
